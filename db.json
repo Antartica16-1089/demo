@@ -1,14 +1,58 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "categoryName": "Deportistas",
+    "imageURL": "https://ibb.co/nC2KTRc",
+    "categoryContent": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "LeBron James",
+      "Kevin Durant",
+      "Neymar Jr",
+      "Stephen Curry",
+      "Kylian Mbappé",
+      "Roger Federer",
+      "Rafael Nadal",
+      "Alex Morgan",
+      "Tom Brady"
+    ]
+  },
+  {
+    "id": 2,
+    "categoryName": "Artistas",
+    "imageURL": "https://ibb.co/nz94PWh",
+    "categoryContent": [
+      "Adele",
+      "Bad Bunny",
+      "Anuel AA",
+      "Luis Miguel",
+      "Ariana Grande",
+      "Justin Bieber",
+      "Ed Sheeran",
+      "Farruko",
+      "Maroon 5",
+      "Charlie Puth",
+      "Tyga",
+      "Beyoncé"
+    ]
+  },
+  {
+    "id": 3,
+    "categoryName": "Actores/Actrices",
+    "imageURL": "https://ibb.co/Fsb28jW",
+    "categoryContent": [
+      "Robert Downey Jr",
+      "Chris Evans",
+      "Chris Hermsworth",
+      "Morgan Freeman",
+      "Leonardo Di Caprio",
+      "Angelina Jolie",
+      "Brad Pitt",
+      "Will Smith",
+      "Johnny Deep",
+      "Vin Diesel",
+      "Jackie Chan",
+      "Jim Carrey"
+    ]
   }
-}
+]
